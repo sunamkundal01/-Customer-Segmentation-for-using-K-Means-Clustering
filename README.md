@@ -259,7 +259,7 @@ python project_13_customer_segmentation_using_k_means_clustering.py
 
 ## 👥 Author
 
-**Your Name**
+**Sunam Kundal**
 
 - GitHub: [sunamkundal01](https://github.com/sunamkundal01)
 - LinkedIn: [Sunam Kundal](https://linkedin.com/in/sunamkundal)
